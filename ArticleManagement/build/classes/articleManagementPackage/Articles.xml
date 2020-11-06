@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Articles.xsl"?>
+
+
+<articles>
+
+<article number="1" yearno="2016" keyword="math,computational,science" month="november">
+
+	<authors>
+	
+	Hsiang-Chuan Liu,Yih-Chang Ou,Ben-Chang Shia,Hsien-Chang Tsaia
+	
+	</authors>
+	
+	<title>
+	
+	A novel DEMATEL theory based on Liu’s polytomous ordering theory
+	
+	</title>
+	
+	<pages>4 pages</pages>
+	
+	<section>
+		
+	Computational and Mathematical Sciences
+		
+	</section>
+
+	<DOI>
+	
+	https://doi.org/10.1051/matecconf/20167101001
+	
+	</DOI>
+
+	<keywords>math,computational,science</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 71, 01001 (2016)
+	
+	</crossreference>
+	
+	<editor>C.-H. Liu and C.-C. Wang</editor>
+	
+	<conferenceTitle>
+	
+	The International Conference on Computing and Precision Engineering (ICCPE 2015)
+	
+	</conferenceTitle>
+	
+	<bookTitle>Volume 71 (2016)</bookTitle>
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	<month>November</month>
+	
+	<year>2016</year>
+	
+	<ISBN>9781510827486</ISBN>
+
+</article>
+
+
+<article number="2" yearno="2017" keyword="youth" month="december">
+
+	<authors>
+	
+	Tatiana Nagornova and Vladimir Emelenchuk
+	
+	</authors>
+	
+	<title>
+	
+	The influence of insulation of walls of industrial objects on thermal regime
+	at the heating system of gas infrared radiators
+	
+	</title>
+	
+	<pages>5 pages</pages>
+	
+	<section>
+		
+	Youth
+	
+	</section>
+
+	<DOI>
+	
+	https://doi.org/10.1051/matecconf/201714101002
+	
+	</DOI>
+
+	<keywords>youth</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 141, 01002 (2017)
+	
+	</crossreference>
+	
+	<editor>A.A. Kozyreva, A.O. Zhdanova and G.V. Kuznetsov</editor>
+	
+	<conferenceTitle>
+	
+	The Fifth International Youth Forum “Smart Grids 2017”
+	
+	</conferenceTitle>
+	
+	<bookTitle>Volume 141 (2017)</bookTitle>
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	<month>December</month>
+	
+	<year>2017</year>
+	
+	<ISBN>Not found</ISBN>
+
+</article>
+
+
+<article number="3" yearno="2017" keyword="manufacturing,engineering" month="november">
+
+	<authors>
+	
+	Adrian-Paul Basarman* and Mircea Lobonţiu
+	
+	</authors>
+	
+	<title>
+	
+	Aspects regarding the surface roughness on a steel part cutted using AWJ technology
+	
+	</title>
+	
+	<pages>8 pages</pages>
+	
+	<section>
+		
+		Manufacturing Engineering
+		
+	</section>
+
+	<DOI>
+	
+	https://doi.org/10.1051/matecconf/201713701001
+	
+	</DOI>
+
+	<keywords>manufacturing, engineering</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 137, 01001 (2017)
+	
+	</crossreference>
+	
+	<editor>N.Balc</editor>
+	
+	<conferenceTitle>
+	
+	Modern Technologies in Manufacturing (MTeM 2017 - AMaTUC)
+	
+	</conferenceTitle>
+	
+	<bookTitle>Volume 137 (2017)</bookTitle>
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	<month>November</month>
+	
+	<year>2017</year>
+	
+	<ISBN>978-2-7598-9027-9</ISBN>
+
+</article>
+
+
+
+<article number="4" yearno="2017" keyword="construction,material" month="december">
+
+	<authors>
+	
+	Dinie Awalluddin,
+	Mohd Azreen Mohd Ariffin,
+	Mohd Hanim Osman,
+	Mohd Warid Hussin, Mohamed A. Ismail,
+	Han-Seung Lee and Nor Hasanah Abdul Shukor Lim
+	
+	</authors>
+	
+	<title>
+	
+	Mechanical properties of different bamboo species
+	
+	</title>
+	
+	<pages>10 pages</pages>
+	
+	<section>
+		
+	Sustainable Construction Materials
+	
+	</section>
+
+	<DOI>
+	
+		https://doi.org/10.1051/matecconf/201713801024
+			
+	</DOI>
+
+	<keywords>construction, materials</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 138, 01024 (2017)
+	
+	</crossreference>
+	
+	<editor>J.-W. Park, H. Ay Lie, H. Hardjasaputra and P. Thayaalan</editor>
+	
+	<conferenceTitle>
+	
+	The 6th International Conference of Euro Asia Civil Engineering Forum (EACEF 2017)
+	
+	</conferenceTitle>
+	
+	<bookTitle>Volume 138 (2017)</bookTitle>
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	<month>December</month>
+	
+	<year>2017</year>
+	
+	<ISBN>ISBN not found</ISBN>
+
+</article>
+
+
+
+<article number="5" yearno="2018" keyword="material,functional,design" month="december">
+
+	<authors>
+	
+	M G Nassef,
+	I El-Galy and A Hassanin
+	
+	</authors>
+	
+	<title>
+	
+	Mechanical and Dynamic Characterization of Sustainable Composites Based on Food Packaging Waste
+	
+	</title>
+	
+	<pages>8 pages</pages>
+	
+	<section>
+	
+		Functional Material Design and Development
+		
+	</section>
+
+	<DOI>
+	
+	https://doi.org/10.1051/matecconf/201824901002
+			
+	</DOI>
+
+	<keywords>material,functional,design</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 249, 01002 (2018)
+	
+	</crossreference>
+	
+	<editor>Guanghsu Chang</editor>
+	
+	<conferenceTitle>
+	
+	2018 5th International Conference on Mechanical, Materials and Manufacturing (ICMMM 2018)
+	
+	</conferenceTitle>
+	
+	
+	<bookTitle>Volume 249 (2018)</bookTitle>
+	
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	
+	<month>December</month>
+	
+	<year>2018</year>
+	
+	<ISBN>ISBN not found</ISBN>
+
+</article>
+
+
+
+<article number="6" yearno="2018" keyword="mechanical,engineering,manufacturing" month="december">
+
+	<authors>
+	
+	Sai Vijay Venkatesh and R Udayakumar
+	
+	</authors>
+	
+	<title>
+	
+	Performance and emissions of si engine with octane boosters
+	
+	</title>
+	
+	<pages>5 pages</pages>
+	
+	<section>
+		
+	Mechanical Engineering and Digital Manufacturing
+		
+	</section>
+
+	<DOI>
+	
+	https://doi.org/10.1051/matecconf/201824903008
+	
+	</DOI>
+
+	<keywords>mechanical, engineering, manufacturing</keywords>
+
+	<crossreference>
+	
+	MATEC Web of Conferences 249, 03008 (2018)
+	
+	</crossreference>
+	
+	<editor>Guanghsu Chang</editor>
+	
+	
+	
+	<conferenceTitle>
+	
+	2018 5th International Conference on Mechanical, Materials and Manufacturing (ICMMM 2018)
+	
+	</conferenceTitle>
+	
+	
+	
+	<bookTitle>Volume 249 (2018)</bookTitle>
+	
+	<publisher>published by EDP Sciences</publisher>
+	
+	<month>December</month>
+	
+	<year>2018</year>
+	
+	<ISBN>2261-236X</ISBN>
+
+</article>
+
+
+
+
+</articles>
+
+
+
+
+
+
+
+
+
+
+

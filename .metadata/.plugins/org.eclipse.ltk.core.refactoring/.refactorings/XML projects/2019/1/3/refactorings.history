@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;ArticleManagement/src/articleManagementPackage&apos;&#x0A;- Original project: &apos;XML projects&apos;&#x0A;- Destination element: &apos;ArticleManagement/src/articleManagementPackage&apos;&#x0A;- Original elements:&#x0A;     Articles.xml&#x0A;     Articles.xsd&#x0A;     Articles.xsl" description="Copy files" destination="=ArticleManagement/src&lt;articleManagementPackage" element1="src/Articles.xml" element2="src/Articles.xsd" element3="src/Articles.xsl" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1547683032679" units="0" version="1.0"/>
+</session>

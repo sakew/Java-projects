@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  elementFormDefault="qualified">
+
+
+	<xs:element name="articles">
+	
+		<xs:complexType>
+		
+			<xs:sequence>
+			
+				<xs:element name = "article" type="ArticleType" minOccurs = "0" 
+				maxOccurs = "unbounded" />
+				
+			</xs:sequence>
+		
+		</xs:complexType>
+		
+	</xs:element>
+
+	<xs:complexType name="ArticleType">
+		<xs:sequence>
+			<xs:element name="authors" type="xs:string"/>
+			<xs:element name="title" type="xs:string"/>
+			<xs:element name="pages" type="xs:string"/>
+			<xs:element name="section" type="xs:string"/>
+			<xs:element name="DOI" type="xs:string"/>
+			<xs:element name="keywords" type="xs:string"/>
+			<xs:element name="crossreference" type="xs:string"/>
+			<xs:element name="editor" type="xs:string"/>
+			<xs:element name="conferenceTitle" type="xs:string"/>
+			<xs:element name="bookTitle" type="xs:string"/>
+			<xs:element name="publisher" type="xs:string"/>
+			<xs:element name="month" type="xs:string"/>
+			<xs:element name="year" type="xs:positiveInteger"/>
+			<xs:element name="ISBN" type="xs:string"/>
+			
+		</xs:sequence>
+		<xs:attribute name="yearno" type="xs:positiveInteger"/>
+		<xs:attribute name="number" type="xs:positiveInteger"/>
+		<xs:attribute name="keyword" type="xs:string"/>
+		<xs:attribute name="month" type="xs:string"/>
+	</xs:complexType>
+
+</xs:schema>

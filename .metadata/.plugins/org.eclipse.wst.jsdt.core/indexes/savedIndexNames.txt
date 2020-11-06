@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/dorin/Desktop/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4174673908.index
+2972488669.index
+1990799622.index
+2298136834.index
+2420761716.index
+2389405381.index
+3552224228.index

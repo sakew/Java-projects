@@ -1,0 +1,258 @@
+USER       PID  STARTED     ELAPSED COMMAND
+root         1 14:34:23       06:23 /sbin/init splash
+root         2 14:34:23       06:23 [kthreadd]
+root         3 14:34:23       06:23 [kworker/0:0]
+root         4 14:34:23       06:23 [kworker/0:0H]
+root         5 14:34:23       06:23 [kworker/u8:0]
+root         6 14:34:23       06:23 [mm_percpu_wq]
+root         7 14:34:23       06:23 [ksoftirqd/0]
+root         8 14:34:23       06:23 [rcu_sched]
+root         9 14:34:23       06:23 [rcu_bh]
+root        10 14:34:23       06:23 [migration/0]
+root        11 14:34:23       06:23 [watchdog/0]
+root        12 14:34:23       06:23 [cpuhp/0]
+root        13 14:34:23       06:23 [cpuhp/1]
+root        14 14:34:23       06:23 [watchdog/1]
+root        15 14:34:23       06:23 [migration/1]
+root        16 14:34:23       06:23 [ksoftirqd/1]
+root        18 14:34:23       06:23 [kworker/1:0H]
+root        19 14:34:23       06:23 [cpuhp/2]
+root        20 14:34:23       06:23 [watchdog/2]
+root        21 14:34:23       06:23 [migration/2]
+root        22 14:34:23       06:23 [ksoftirqd/2]
+root        24 14:34:23       06:23 [kworker/2:0H]
+root        25 14:34:23       06:23 [cpuhp/3]
+root        26 14:34:23       06:23 [watchdog/3]
+root        27 14:34:23       06:23 [migration/3]
+root        28 14:34:23       06:23 [ksoftirqd/3]
+root        30 14:34:23       06:23 [kworker/3:0H]
+root        31 14:34:23       06:23 [kdevtmpfs]
+root        32 14:34:23       06:23 [netns]
+root        33 14:34:23       06:23 [rcu_tasks_kthre]
+root        34 14:34:23       06:23 [kauditd]
+root        35 14:34:23       06:23 [kworker/2:1]
+root        36 14:34:23       06:23 [kworker/3:1]
+root        37 14:34:23       06:23 [kworker/0:1]
+root        38 14:34:23       06:23 [khungtaskd]
+root        39 14:34:23       06:23 [oom_reaper]
+root        40 14:34:23       06:23 [writeback]
+root        41 14:34:23       06:23 [kcompactd0]
+root        42 14:34:23       06:23 [ksmd]
+root        43 14:34:23       06:23 [khugepaged]
+root        44 14:34:23       06:23 [crypto]
+root        45 14:34:23       06:23 [kintegrityd]
+root        46 14:34:23       06:23 [kblockd]
+root        47 14:34:23       06:23 [ata_sff]
+root        48 14:34:23       06:23 [md]
+root        49 14:34:23       06:23 [edac-poller]
+root        50 14:34:23       06:23 [devfreq_wq]
+root        51 14:34:23       06:23 [watchdogd]
+root        52 14:34:23       06:23 [kworker/u8:1]
+root        53 14:34:23       06:23 [kworker/1:1]
+root        55 14:34:24       06:22 [kswapd0]
+root        56 14:34:24       06:22 [ecryptfs-kthrea]
+root        98 14:34:24       06:22 [kthrotld]
+root        99 14:34:24       06:22 [acpi_thermal_pm]
+root       100 14:34:24       06:22 [kworker/u8:2]
+root       104 14:34:24       06:22 [ipv6_addrconf]
+root       113 14:34:24       06:22 [kstrp]
+root       134 14:34:24       06:22 [charger_manager]
+root       135 14:34:24       06:22 [kworker/1:2]
+root       140 14:34:24       06:22 [kworker/3:2]
+root       192 14:34:24       06:22 [scsi_eh_0]
+root       193 14:34:24       06:22 [scsi_tmf_0]
+root       194 14:34:24       06:22 [scsi_eh_1]
+root       195 14:34:24       06:22 [scsi_tmf_1]
+root       196 14:34:24       06:22 [scsi_eh_2]
+root       197 14:34:24       06:22 [scsi_tmf_2]
+root       198 14:34:24       06:22 [scsi_eh_3]
+root       199 14:34:24       06:22 [scsi_tmf_3]
+root       200 14:34:24       06:22 [kworker/u8:3]
+root       201 14:34:24       06:22 [kworker/u8:4]
+root       202 14:34:24       06:22 [kworker/0:2]
+root       203 14:34:24       06:22 [nvkm-disp]
+root       205 14:34:24       06:22 [kworker/u9:0]
+root       206 14:34:24       06:22 [i915/signal:0]
+root       207 14:34:24       06:22 [i915/signal:1]
+root       208 14:34:24       06:22 [i915/signal:2]
+root       209 14:34:24       06:22 [i915/signal:4]
+root       212 14:34:25       06:21 [kworker/0:1H]
+root       215 14:34:25       06:21 [kworker/1:1H]
+root       216 14:34:26       06:20 [ttm_swap]
+root       245 14:34:26       06:20 [jbd2/sda2-8]
+root       246 14:34:26       06:20 [ext4-rsv-conver]
+root       259 14:34:27       06:19 [kworker/2:2]
+root       274 14:34:30       06:16 [kworker/2:1H]
+root       277 14:34:30       06:16 [kworker/3:1H]
+root       278 14:34:31       06:15 [kworker/1:3]
+root       289 14:34:32       06:14 /lib/systemd/systemd-journald
+root       314 14:34:34       06:12 [loop0]
+root       315 14:34:34       06:12 [loop1]
+root       317 14:34:34       06:12 [loop2]
+root       319 14:34:34       06:12 [loop3]
+root       321 14:34:34       06:12 [loop4]
+root       324 14:34:34       06:12 [loop5]
+root       327 14:34:34       06:12 [loop6]
+root       328 14:34:34       06:12 [loop7]
+root       333 14:34:34       06:12 [loop8]
+root       334 14:34:34       06:12 [loop9]
+root       335 14:34:34       06:12 [loop10]
+root       336 14:34:34       06:12 [loop11]
+root       338 14:34:34       06:12 [loop12]
+root       340 14:34:35       06:11 [loop13]
+root       342 14:34:35       06:11 [loop14]
+root       344 14:34:36       06:10 [loop15]
+root       346 14:34:39       06:07 [loop16]
+root       348 14:34:41       06:05 [loop17]
+root       350 14:34:50       05:56 [loop18]
+root       352 14:34:50       05:56 [loop19]
+root       354 14:34:50       05:56 [loop20]
+root       356 14:34:50       05:56 [loop21]
+root       359 14:34:50       05:56 [loop22]
+root       362 14:34:50       05:56 [loop23]
+root       363 14:34:50       05:56 [loop24]
+root       366 14:34:50       05:56 /lib/systemd/systemd-udevd
+root       367 14:34:50       05:56 [loop25]
+root       368 14:34:50       05:56 [loop26]
+root       369 14:34:50       05:56 [loop27]
+root       418 14:34:50       05:56 [cfg80211]
+root       421 14:34:50       05:56 [kworker/u9:2]
+root       442 14:34:50       05:56 [irq/51-mei_me]
+root       577 14:34:52       05:54 [kmemstick]
+root       578 14:34:52       05:54 [rtsx_usb_ms_1]
+systemd+   681 14:34:55       05:51 /lib/systemd/systemd-resolved
+systemd+   682 14:34:55       05:51 /lib/systemd/systemd-timesyncd
+root       778 14:34:56       05:50 /usr/sbin/cron -f
+root       780 14:34:56       05:50 /usr/lib/accountsservice/accounts-daemon
+root       782 14:34:56       05:50 /usr/sbin/cupsd -l
+syslog     784 14:34:57       05:49 /usr/sbin/rsyslogd -n
+root       786 14:34:57       05:49 /usr/sbin/ModemManager
+root       790 14:34:57       05:49 /usr/sbin/thermald --no-daemon --dbus-enable
+root       791 14:34:57       05:49 /usr/lib/udisks2/udisksd
+root       793 14:34:57       05:49 /usr/lib/bluetooth/bluetoothd
+root       795 14:34:57       05:49 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+message+   801 14:34:57       05:49 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       860 14:34:58       05:48 /usr/sbin/NetworkManager --no-daemon
+root       862 14:34:58       05:48 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       863 14:34:58       05:48 /usr/sbin/irqbalance --foreground
+root       864 14:34:58       05:48 /lib/systemd/systemd-logind
+avahi      865 14:34:58       05:48 avahi-daemon: running [dorin-Lenovo-ideapad-100-15IBD.local]
+root       866 14:34:58       05:48 /usr/sbin/acpid
+root       867 14:34:58       05:48 /usr/lib/snapd/snapd
+root       873 14:34:58       05:48 /usr/lib/policykit-1/polkitd --no-debug
+avahi      895 14:35:00       05:46 avahi-daemon: chroot helper
+root       896 14:35:00       05:46 /usr/sbin/cups-browsed
+root       906 14:35:01       05:45 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       923 14:35:01       05:45 /usr/sbin/gdm3
+root       929 14:35:01       05:45 gdm-session-worker [pam/gdm-launch-environment]
+gdm        945 14:35:02       05:44 /lib/systemd/systemd --user
+gdm        946 14:35:02       05:44 (sd-pam)
+gdm        980 14:35:03       05:43 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm        982 14:35:03       05:43 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm        984 14:35:03       05:43 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm        990 14:35:03       05:43 /usr/bin/gnome-shell
+root       999 14:35:06       05:40 /usr/lib/upower/upowerd
+whoopsie  1007 14:35:07       05:39 /usr/bin/whoopsie -f
+kernoops  1011 14:35:07       05:39 /usr/sbin/kerneloops --test
+kernoops  1013 14:35:07       05:39 /usr/sbin/kerneloops
+gdm       1034 14:35:09       05:37 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm       1041 14:35:09       05:37 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm       1046 14:35:09       05:37 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm       1048 14:35:09       05:37 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm       1052 14:35:09       05:37 /usr/bin/pulseaudio --daemonize=no
+rtkit     1053 14:35:09       05:37 /usr/lib/rtkit/rtkit-daemon
+gdm       1067 14:35:11       05:35 ibus-daemon --xim --panel disable
+gdm       1070 14:35:11       05:35 /usr/lib/ibus/ibus-dconf
+gdm       1072 14:35:11       05:35 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       1075 14:35:11       05:35 /usr/lib/ibus/ibus-portal
+root      1087 14:35:11       05:35 /usr/lib/x86_64-linux-gnu/boltd
+root      1088 14:35:11       05:35 /usr/lib/packagekit/packagekitd
+gdm       1089 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       1092 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       1093 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       1096 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       1097 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       1098 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       1099 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       1102 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       1106 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       1109 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       1111 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       1112 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       1115 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       1118 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       1121 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       1122 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       1128 14:35:11       05:35 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm       1144 14:35:12       05:34 /usr/lib/ibus/ibus-engine-simple
+colord    1186 14:35:12       05:34 /usr/lib/colord/colord
+root      1205 14:35:22       05:24 gdm-session-worker [pam/gdm-password]
+dorin     1208 14:35:22       05:24 /lib/systemd/systemd --user
+dorin     1209 14:35:22       05:24 (sd-pam)
+dorin     1222 14:35:22       05:24 /usr/bin/gnome-keyring-daemon --daemonize --login
+dorin     1226 14:35:23       05:23 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+dorin     1228 14:35:23       05:23 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+dorin     1232 14:35:23       05:23 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dorin     1235 14:35:23       05:23 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+dorin     1331 14:35:24       05:22 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+dorin     1333 14:35:24       05:22 /usr/lib/at-spi2-core/at-spi-bus-launcher
+dorin     1338 14:35:24       05:22 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+dorin     1341 14:35:24       05:22 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+dorin     1357 14:35:24       05:22 /usr/bin/gnome-shell
+dorin     1363 14:35:24       05:22 /usr/lib/gvfs/gvfsd
+dorin     1368 14:35:24       05:22 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+dorin     1379 14:35:24       05:22 /usr/bin/pulseaudio --start --log-target=syslog
+root      1383 14:35:24       05:22 [krfcommd]
+dorin     1394 14:35:25       05:21 ibus-daemon --xim --panel disable
+dorin     1398 14:35:25       05:21 /usr/lib/ibus/ibus-dconf
+dorin     1400 14:35:25       05:21 /usr/lib/ibus/ibus-x11 --kill-daemon
+dorin     1403 14:35:25       05:21 /usr/lib/ibus/ibus-portal
+dorin     1413 14:35:25       05:21 /usr/lib/gnome-shell/gnome-shell-calendar-server
+dorin     1421 14:35:25       05:21 /usr/lib/dconf/dconf-service
+dorin     1424 14:35:25       05:21 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+dorin     1428 14:35:25       05:21 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+dorin     1432 14:35:25       05:21 /usr/lib/gvfs/gvfs-afc-volume-monitor
+dorin     1440 14:35:25       05:21 /usr/lib/evolution/evolution-source-registry
+dorin     1441 14:35:25       05:21 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+dorin     1445 14:35:25       05:21 /usr/lib/gvfs/gvfs-goa-volume-monitor
+dorin     1451 14:35:25       05:21 /usr/lib/gnome-online-accounts/goa-daemon
+dorin     1462 14:35:26       05:20 /usr/lib/gnome-online-accounts/goa-identity-service
+dorin     1467 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-power
+dorin     1468 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+dorin     1471 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-rfkill
+dorin     1473 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+dorin     1479 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-sharing
+dorin     1482 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-smartcard
+dorin     1492 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-xsettings
+dorin     1498 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-wacom
+dorin     1499 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-sound
+dorin     1508 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+dorin     1510 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-clipboard
+dorin     1513 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-color
+dorin     1514 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-datetime
+dorin     1516 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+dorin     1519 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-keyboard
+dorin     1523 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-media-keys
+dorin     1526 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-mouse
+dorin     1557 14:35:26       05:20 /usr/lib/gnome-settings-daemon/gsd-printer
+dorin     1570 14:35:26       05:20 nautilus-desktop
+dorin     1575 14:35:26       05:20 /usr/bin/gnome-software --gapplication-service
+dorin     1577 14:35:26       05:20 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+dorin     1594 14:35:26       05:20 /usr/lib/evolution/evolution-calendar-factory
+dorin     1598 14:35:27       05:19 /usr/lib/ibus/ibus-engine-simple
+dorin     1612 14:35:27       05:19 /usr/lib/gvfs/gvfsd-trash --spawner :1.22 /org/gtk/gvfs/exec_spaw/0
+dorin     1635 14:35:27       05:19 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1594x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1594/2
+dorin     1647 14:35:28       05:18 /usr/lib/evolution/evolution-addressbook-factory
+dorin     1659 14:35:28       05:18 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1647x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1647/2
+dorin     1684 14:35:30       05:16 /usr/lib/gvfs/gvfsd-metadata
+root      1689 14:35:30       05:16 /usr/lib/fwupd/fwupd
+dorin     1784 14:35:35       05:11 /home/dorin/eclipse/jee-oxygen/eclipse/eclipse
+dorin     1839 14:35:48       04:58 /usr/lib/jvm/java-8-oracle/jre/bin/java -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx1024m -Declipse.p2.max.threads=10 -Doomph.update.url=http://download.eclipse.org/oomph/updates/milestone/latest -Doomph.redirection.index.redirection=index:/->http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/ -jar /home/dorin/eclipse/jee-oxygen/eclipse//plugins/org.eclipse.equinox.launcher_1.5.100.v20180827-1352.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /home/dorin/eclipse/jee-oxygen/eclipse/eclipse -name Eclipse --launcher.library /home/dorin/.p2/pool/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.800.v20180827-1352/eclipse_1705.so -startup /home/dorin/eclipse/jee-oxygen/eclipse//plugins/org.eclipse.equinox.launcher_1.5.100.v20180827-1352.jar --launcher.appendVmargs -exitdata 68003 -product org.eclipse.epp.package.jee.product -vm /usr/lib/jvm/java-8-oracle/jre/bin/java -vmargs -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx1024m -Declipse.p2.max.threads=10 -Doomph.update.url=http://download.eclipse.org/oomph/updates/milestone/latest -Doomph.redirection.index.redirection=index:/->http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/ -jar /home/dorin/eclipse/jee-oxygen/eclipse//plugins/org.eclipse.equinox.launcher_1.5.100.v20180827-1352.jar
+root      1872 14:35:58       04:48 [kworker/0:3]
+dorin     1956 14:36:26       04:20 update-notifier
+dorin     1962 14:36:27       04:19 [livepatch-notif] <defunct>
+dorin     2057 14:37:26       03:20 /usr/lib/deja-dup/deja-dup-monitor
+root      2078 14:39:45       01:01 [kworker/1:0]
+root      2079 14:39:54       00:52 [kworker/2:0]
+dorin     2083 14:40:46       00:00 /usr/lib/jvm/java-8-oracle/bin/java -Dfile.encoding=UTF-8 -classpath /home/dorin/Desktop/eclipse-workspace/ProcessRuntimeCalculator/bin processMainPanel
+dorin     2103 14:40:46       00:00 ps -eo user,pid,start,etime,command
